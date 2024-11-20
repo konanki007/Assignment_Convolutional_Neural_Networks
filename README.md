@@ -6,14 +6,8 @@ International Skin Imaging Collaboration (ISIC). All images were sorted accordin
 the same number of images, 
 with the exception of melanomas and moles, whose images are slightly dominant. The data set contains the following diseases:
 
-
-## Technologies Used
-- tensorflow
-- numpy
-- pandas
-- pathlib
-- matplotlib
-- PIL
+## Table of Contents
+* Python 3
 * Implemented CNN model for classification of detect melanoma
 
 
@@ -34,7 +28,12 @@ International Skin Imaging Collaboration (ISIC)
 
 
 ## Technologies Used
-- Python 3.0
+- tensorflow
+- numpy
+- pandas
+- pathlib
+- matplotlib
+- PIL
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
