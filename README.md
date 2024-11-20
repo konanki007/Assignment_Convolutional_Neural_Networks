@@ -7,8 +7,10 @@ the same number of images,
 with the exception of melanomas and moles, whose images are slightly dominant. The data set contains the following diseases:
 
 ## Table of Contents
-* Python 3
-* Implemented CNN model for classification of detect melanoma
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
 
 <!-- You can include any other section that is pertinent to your problem -->
